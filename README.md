@@ -13,3 +13,5 @@ This is a simple Tic Tac Toe game built using HTML, CSS and JavaScript.
 
 ## Author
 Shreya Dutta
+
+![Game Screenshot] (TicTacToe_Screenshot.png)
